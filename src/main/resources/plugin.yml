@@ -1,0 +1,14 @@
+name: ArcaneGreatsword
+version: '1.0.0'
+main: de.heyy.arcane.ArcaneGreatswordPlugin
+api-version: '26.2'
+author: Heyy
+description: Custom greatsword with special attacks, cyan effects and a flying sword ability.
+commands:
+  arcane:
+    description: Gives the Arcane Greatsword
+    usage: /arcane give
+    permission: arcane.give
+permissions:
+  arcane.give:
+    default: op

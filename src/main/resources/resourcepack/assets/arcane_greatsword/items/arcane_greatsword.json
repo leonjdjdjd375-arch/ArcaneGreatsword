@@ -1,0 +1,7 @@
+{
+  "oversized_in_gui": false,
+  "model": {
+    "type": "minecraft:model",
+    "model": "arcane_greatsword:item/arcane_greatsword"
+  }
+}
